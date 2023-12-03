@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Mohan Ananth"
   avatar           : "profile.png"
-  bio              : "Ph.D. Dissertator, UW-Madison"
+  bio              : "Ph.D. Dissertator Mechanical Engineering UW-Madison"
   location         : "Madison, WI-USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ASmdv-kAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/mohan-ananth/"
   orcid            : "https://orcid.org/0000-0002-8420-2421"
   pinterest        :
   soundcloud       :
