@@ -4,4 +4,12 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/3D_
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Stability Analysis in two-phase cartesian coordinates
+======
+
+Stability Analysis in two-phase cylindrical coordinates
+======
+
+Large-scale modes observed in liquid sheet breakup
+======
+<br/><img src='/images/3D_animation.gif'>
