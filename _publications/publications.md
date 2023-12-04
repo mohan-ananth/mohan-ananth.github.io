@@ -9,3 +9,11 @@ Mohan Ananth and Mario F. Trujillo, Breakup of Planar Liquid Sheets Injected at 
 Mohan Ananth and Mario F. Trujillo, 2PJIT: Two-phase 3D jet instability tool in cylindrical coordinates, SoftwareX, 2022. [[link](https://www.sciencedirect.com/science/article/pii/S2352711022000206)][[code](https://github.com/ElsevierSoftwareX/SOFTX-D-21-00119)]
 
 Arpit Agarwal, Mohan Ananth and Mario F. Trujillo, Evaluation and Improvements to Interfacial Curvature Predictions in interFoam, Fluids, 2022. [[link](https://www.mdpi.com/2311-5521/7/4/128)]
+
+Conference presentations
+======
+Mohan Ananth and Mario F. Trujillo, Study of large scale modes in the break-up of 2D planar jets, Institute for Liquid Atomization and Spray Systems, 2022.
+
+Chia-Wei Kuo, Mohan Ananth, Andrea Strzelec and Mario F. Trujillo, VoFLE simulations to model UWS spray evaporation, ASME-ICEM, 2022.
+
+Mohan Ananth and Mario F. Trujillo, Large-scale instabilities in the breakup of liquid sheets}, Institute for Liquid Atomization and Spray Systems, 2023.
