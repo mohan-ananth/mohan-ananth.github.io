@@ -6,6 +6,10 @@ excerpt: "My portfolio"
 
 Stability Analysis in two-phase cartesian coordinates
 ======
+<p float="left">
+  <img src="/images/sinuous.gif" width="500" />
+  #<img src="/images/Haunted_Hustle_2021.png" width="200" />
+</p>
 
 Stability Analysis in two-phase cylindrical coordinates
 ======
