@@ -12,15 +12,15 @@ I have been interested in running and participated in two half marathons, which 
 
 I enjoy doing pottery in my free time. Here are some of my pottery projects:
 <p float="left">  
-  <img src="/images/pottery1.HEIC" width="300" />
-  <img src="/images/pottery2.HEIC" width="300" />
-  <img src="/images/pottery3.HEIC" width="300" />
-  <img src="/images/pottery4.HEIC" width="300" />
-  <img src="/images/pottery5.HEIC" width="300" />
-  <img src="/images/pottery6.HEIC" width="300" />
-  <img src="/images/pottery7.HEIC" width="300" />
-  <img src="/images/pottery8.HEIC" width="300" />
-  <img src="/images/pottery9.HEIC" width="300" />
-  <img src="/images/pottery10.HEIC" width="300" />
-  <img src="/images/pottery11.HEIC" width="300" />
+  <img src="/images/pottery1.png" width="300" />
+  <img src="/images/pottery2.png" width="300" />
+  <img src="/images/pottery3.png" width="300" />
+  <img src="/images/pottery4.png" width="300" />
+  <img src="/images/pottery5.png" width="300" />
+  <img src="/images/pottery6.png" width="300" />
+  <img src="/images/pottery7.png" width="300" />
+  <img src="/images/pottery8.png" width="300" />
+  <img src="/images/pottery9.png" width="300" />
+  <img src="/images/pottery10.png" width="300" />
+  <img src="/images/pottery11.png" width="300" />
 </p>
