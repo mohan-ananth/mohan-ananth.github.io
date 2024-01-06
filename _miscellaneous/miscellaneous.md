@@ -1,5 +1,6 @@
 ---
 permalink: /miscellaneous/
+title: ""
 collection: miscellaneous
 excerpt: "My activities"
 ---
