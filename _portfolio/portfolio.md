@@ -1,5 +1,6 @@
 ---
 permalink: /portfolio/
+title: "Research Projects"
 collection: portfolio
 excerpt: "My portfolio"
 ---
