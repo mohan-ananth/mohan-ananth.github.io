@@ -16,6 +16,6 @@ I enjoy doing pottery in my free time. Here are some of my pottery projects:
 
 [<img src="/images/pottery6.jpg" width="250" />](/images/pottery6.jpg) [<img src="/images/pottery11.jpg" width="250" />](/images/pottery11.jpg)
 
-I have been interested in running and participated in two half marathons, which I was able to complete under 2 hours.
+I have been interested in running and participated in two half marathons, which I was able to complete in under 2 hours.
 
 [<img src="/images/Madison_Marathon_2021.png" width="350" />](/images/Madison_Marathon_2021.png) [<img src="/images/Haunted_Hustle_2021.png" width="350" />](/images/Haunted_Hustle_2021.png)
