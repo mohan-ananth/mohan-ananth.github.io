@@ -21,7 +21,7 @@ Stability Analysis in two-phase cylindrical coordinates
 ------
 Stability analysis tool developed for a 3D cylindrical liquid jet injected into gas. Perturbation equations are obtained by applying axisymmetric and asymmetric (helical) perturbations over the mean flow. The perturbation equations are solved using Chebyshev spectral method to determine whether the applied pertubation is stable or unstable.
 
-
+<img src="/images/axisymmetric.png" width="390" /> <img src="/images/asymmetric.png" width="390" />
 
 Large-scale modes observed in liquid sheet breakup
 ------
