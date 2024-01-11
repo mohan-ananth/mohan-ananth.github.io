@@ -8,10 +8,14 @@ excerpt: "My portfolio"
 Stability Analysis in two-phase cartesian coordinates
 ------
 Stability analysis tool developed for a 2D liquid planar sheet injected into gas. Perturbation equations are obtained by applying symmetric (varicose) and asymmetric (sinuous) perturbations over the mean flow. The perturbation equations are solved using Chebyshev spectral method to determine whether the applied pertubation is stable or unstable.
-<p float="left">
-  <img src="/images/varicose.gif" width="350" />
-  <img src="/images/sinuous1.gif" width="350" />
-</p>
+
+Schematic of symmetric (varicose) disturbance: 
+
+<img src="/images/varicose1.gif" width="550" />
+
+Schematic of asymmetric (sinuous) discturbance: 
+
+<img src="/images/sinuous2.gif" width="550" />
 
 Stability Analysis in two-phase cylindrical coordinates
 ------
