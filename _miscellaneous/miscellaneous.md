@@ -16,6 +16,10 @@ I enjoy doing pottery in my free time. Here are some of my pottery projects:
 
 [<img src="/images/pottery6.jpg" width="250" />](/images/pottery6.jpg) [<img src="/images/pottery11.jpg" width="250" />](/images/pottery11.jpg)
 
+<video width="400"  controls>
+  <source src="/images/pottery_teapot.mp4" type="video/mp4">
+</video>
+
 [<img src="/images/pottery12.png" width="500" />](/images/pottery12.png)
 
 I have been interested in running and participated in two half marathons, which I was able to complete in under 2 hours.
