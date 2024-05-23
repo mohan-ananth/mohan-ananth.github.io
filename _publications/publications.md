@@ -14,8 +14,11 @@ Arpit Agarwal, **Mohan Ananth** and Mario F. Trujillo, Evaluation and Improvemen
 
 Conference presentations
 ======
-**Mohan Ananth** and Mario F. Trujillo, Study of large scale modes in the break-up of 2D planar jets, Institute for Liquid Atomization and Spray Systems, 2022.
+
+**Mohan Ananth** and Mario F. Trujillo, Large-scale instabilities observed in the breakup of high-speed 3D cylindrical jets injected into quiescent gas, Institute for Liquid Atomization and Spray Systems, 2024.
+
+**Mohan Ananth** and Mario F. Trujillo, Large-scale instabilities in the breakup of liquid sheets, Institute for Liquid Atomization and Spray Systems, 2023.
 
 Chia-Wei Kuo, **Mohan Ananth**, Andrea Strzelec and Mario F. Trujillo, VoFLE simulations to model UWS spray evaporation, ASME-ICEM, 2022.
 
-**Mohan Ananth** and Mario F. Trujillo, Large-scale instabilities in the breakup of liquid sheets, Institute for Liquid Atomization and Spray Systems, 2023.
+**Mohan Ananth** and Mario F. Trujillo, Study of large scale modes in the break-up of 2D planar jets, Institute for Liquid Atomization and Spray Systems, 2022.
