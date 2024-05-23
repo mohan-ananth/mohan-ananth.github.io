@@ -21,4 +21,4 @@ function implemented in the multiphase flow solver, to predict the surface tensi
 
 News
 ------
-**May 23:** Presented a paper on "Large-scale Instabilities Observed in the Breakup of High-speed 3D Cylindrical Jets Injected into Quiescent Gas" at ILASS-Americas 2024.
+**May 2024:** Presented a paper on "Large-scale Instabilities Observed in the Breakup of High-speed 3D Cylindrical Jets Injected into Quiescent Gas" at ILASS-Americas 2024.
