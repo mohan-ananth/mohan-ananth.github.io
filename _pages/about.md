@@ -18,3 +18,7 @@ cylindrical jets using two techniques; a machine learning technique called Dynam
 Continuous Wavelet transforms (CWT).
 * <span style="color:blue">Improvements in curvature and surface tension predictions in OpenFOAM solver interFoam:</span> Distance-based
 function implemented in the multiphase flow solver, to predict the surface tension force better and avoid the issue of spurious currents.
+
+News
+------
+**May 23:** Presented a paper on "Large-scale Instabilities Observed in the Breakup of High-speed 3D Cylindrical Jets Injected into Quiescent Gas" at ILASS-Americas 2024.
