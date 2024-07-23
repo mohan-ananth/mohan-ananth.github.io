@@ -21,4 +21,6 @@ function implemented in the multiphase flow solver, to predict the surface tensi
 
 News
 ------
+**June 2024:** Published in the Science Talks journal on "Insights into primary liquid atomization".
+
 **May 2024:** Presented a paper on "Large-scale Instabilities Observed in the Breakup of High-speed 3D Cylindrical Jets Injected into Quiescent Gas" at ILASS-Americas 2024.
