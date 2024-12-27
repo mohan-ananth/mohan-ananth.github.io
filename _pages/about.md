@@ -21,7 +21,11 @@ function implemented in the multiphase flow solver, to predict the surface tensi
 
 News
 ------
-**October 2024** Recent collaborative research was presented at the ASME-ICEF 2024 Conference, titled "Integrated Engine-Emissions-Aftertreatment System Model."
+**December 2024** Started working at Trane Technologies as a Modeling Engineer.
+
+**November 2024** Successfully defended my PhD thesis titled, "Insights into High-Speed Liquid Atomization and Simulation of Engine Exhaust to Reduce NOx".
+
+**October 2024** Recent collaborative research was presented at the ASME-ICEF 2024 Conference, titled "Integrated Engine-Emissions-Aftertreatment System Model".
 
 **June 2024:** Published in the Science Talks journal on "Insights into primary liquid atomization".
 
