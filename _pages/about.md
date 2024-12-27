@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Multiphase Computational Fluid Dynamics group at University of Wisconsin-Madison. My research work broadly involves numerical simulations of multiphase flow simulations, involving heat transfer, phase change and chemical reactions. In addition, I have also worked on data analysis methods to analyze the data obtained from numerical simulations. A brief overview of my research is given below:
+I am currently working as a Modeling Engineer for TraneTechnologies at La Crosse, Wisconsin. Prior to this, I pursued my Ph.D. in the Multiphase Computational Fluid Dynamics group at University of Wisconsin-Madison. My research work broadly involves numerical simulations of multiphase flow simulations, involving heat transfer, phase change and chemical reactions. In addition, I have also worked on data analysis methods to analyze the data obtained from numerical simulations. A brief overview of my research is given below:
 * <span style="color:blue">Stability analysis tools for multi-phase flows: </span> Development of tools to solve hydrodynamic instabilities in
 single-phase and two-phase fluid flows in Cartesian and Cylindrical coordinates using Spectral methods. These tools will aid in understanding liquid atomization in sprays, assisting in predicting the disturbances that would cause the breakup of liquid sheets and jets in spray applications.
 * <span style="color:blue">Understanding the primary modes responsible for high-speed liquid sheet breakup:</span> Using stability analysis and high-fidelity Volume of Fluid (VoF) multiphase flow simulations in OpenFOAM, the physics of the large-wavelength modes causing the breakup of high-speed liquid jets is explained.
