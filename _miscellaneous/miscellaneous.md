@@ -6,7 +6,7 @@ excerpt: "My activities"
 ---
 I enjoy doing pottery in my free time. Here are some of my pottery projects:
 
-[<img src="/images/pottery1.jpg" width="250" />](/images/pottery1.jpg) [<img src="/images/pottery5.jpg" width="250" />](/images/pottery5.jpg) [<img src="/images/pottery3.jpg" width="250" />](/images/pottery_toothbrush_holder.jpg)
+[<img src="/images/pottery1.jpg" width="250" />](/images/pottery1.jpg) [<img src="/images/pottery5.jpg" width="250" />](/images/pottery5.jpg) [<img src="/images/pottery_toothbrush_holder.jpg" width="250" />](/images/pottery_toothbrush_holder.jpg)
 
 
 [<img src="/images/pottery2.jpg" width="250" />](/images/pottery2.jpg) [<img src="/images/pottery4.jpg" width="250" />](/images/pottery4.jpg) [<img src="/images/pottery7.jpg" width="250" />](/images/pottery7.jpg)
@@ -14,7 +14,7 @@ I enjoy doing pottery in my free time. Here are some of my pottery projects:
 
 [<img src="/images/pottery9.jpg" width="250" />](/images/pottery9.jpg) [<img src="/images/pottery10.jpg" width="250" />](/images/pottery10.jpg) [<img src="/images/pottery8.jpg" width="250" />](/images/pottery8.jpg)
 
-[<img src="/images/pottery_plates.jpg" width="250" />](/images/pottery6.jpg) [<img src="/images/pottery12.png" width="500" />](/images/pottery12.png)
+[<img src="/images/pottery_plates.jpg" width="250" />](/images/pottery_plates.jpg) [<img src="/images/pottery12.png" width="500" />](/images/pottery12.png)
 
 <video width="500"  controls>
   <source src="/images/pottery_teapot.mp4" type="video/mp4">
