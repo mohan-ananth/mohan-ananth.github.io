@@ -4,6 +4,8 @@ title: ""
 collection: miscellaneous
 excerpt: "My activities"
 ---
+Pottery
+------
 I enjoy doing pottery in my free time. Here are some of my pottery projects:
 
 [<img src="/images/pottery1.jpg" width="250" />](/images/pottery1.jpg) [<img src="/images/pottery5.jpg" width="250" />](/images/pottery5.jpg) [<img src="/images/pottery_toothbrush_holder.jpg" width="250" />](/images/pottery_toothbrush_holder.jpg)
@@ -20,6 +22,18 @@ I enjoy doing pottery in my free time. Here are some of my pottery projects:
   <source src="/images/pottery_teapot.mp4" type="video/mp4">
 </video>
 
+Biking
+------
+I enjoy biking and participated in Old Fashioned Gravel race in 2025, held in Hokah, Minnesota.
+
+[<img src="/images/OldFashionedGravel.png" width="450" />](/images/OldFashionedGravel.png)
+
+In 2026, I biked from Milwaukee to La Crosse (238.6 miles in total) in 3 days.
+
+[<img src="/images/Milwaukee-LaCrosse_1.png" width="350" />](/images/Milwaukee-LaCrosse_1.png) [<img src="/images/Milwaukee-LaCrosse_2.png" width="350" />](/images/Milwaukee-LaCrosse_2.png) [<img src="/images/Milwaukee-LaCrosse_3.png" width="350" />](/images/Milwaukee-LaCrosse_3.png)
+
+Running
+------
 I have been interested in running and participated in two half marathons, which I was able to complete in under 2 hours.
 
 [<img src="/images/Madison_Marathon_2021.png" width="350" />](/images/Madison_Marathon_2021.png) [<img src="/images/Haunted_Hustle_2021.png" width="350" />](/images/Haunted_Hustle_2021.png)
