@@ -30,7 +30,7 @@ I enjoy biking and participated in Old Fashioned Gravel race in 2025, held in Ho
 
 In 2026, I biked from Milwaukee to La Crosse (238.6 miles in total) in 3 days.
 
-[<img src="/images/Milwaukee-LaCrosse_1.png" width="350" />](/images/Milwaukee-LaCrosse_1.png) [<img src="/images/Milwaukee-LaCrosse_2.png" width="350" />](/images/Milwaukee-LaCrosse_2.png) [<img src="/images/Milwaukee-LaCrosse_3.png" width="350" />](/images/Milwaukee-LaCrosse_3.png)
+[<img src="/images/Milwaukee-LaCrosse_1.png" width="300" />](/images/Milwaukee-LaCrosse_1.png) [<img src="/images/Milwaukee-LaCrosse_2.png" width="300" />](/images/Milwaukee-LaCrosse_2.png) [<img src="/images/Milwaukee-LaCrosse_3.png" width="300" />](/images/Milwaukee-LaCrosse_3.png)
 
 Running
 ------
