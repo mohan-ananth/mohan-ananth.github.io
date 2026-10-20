@@ -37,3 +37,6 @@ Running
 I have been interested in running and participated in two half marathons, which I was able to complete in under 2 hours.
 
 [<img src="/images/Madison_Marathon_2021.png" width="350" />](/images/Madison_Marathon_2021.png) [<img src="/images/Haunted_Hustle_2021.png" width="350" />](/images/Haunted_Hustle_2021.png)
+
+I competed in my first full marathon in Portland, Oregon, in 2026.
+[<img src="/images/image_1.jpg" width="450" />](/images/image_1.jpg)
